@@ -13,13 +13,14 @@ setcookie('sleep_lang', $lang, time() + 60 * 60 * 24 * 365, '/');
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Sleep cycle calculator: bedtime, wake-up time, nap calculator and sleep tips." />
   <title>Sleep Cycle Calculator</title>
-  <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JL461PQJB7"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0S22WY8S57"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-JL461PQJB7');
+
+      gtag('config', 'G-0S22WY8S57');
     </script>
   <link rel="stylesheet" href="assets/styles.css?v=1.0.0" />
 </head>
