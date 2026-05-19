@@ -1,4 +1,4 @@
-<?php
+<?php //one more commit
 $allowedLangs = ['uk', 'en'];
 $lang = $_GET['lang'] ?? ($_COOKIE['sleep_lang'] ?? 'uk');
 if (!in_array($lang, $allowedLangs, true)) {
